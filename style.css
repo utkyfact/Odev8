@@ -1,0 +1,70 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.kart{
+    border: 1px solid black;
+    margin: 10px;
+    padding: 0px 0px 10px 0px;
+    border-radius: 10px;
+    background-color: rgb(160, 29, 29);
+}
+
+.title{
+    padding: 10px;
+    color: silver;
+    text-align: center;
+    text-shadow: 4px -2px 2px midnightblue;
+}
+
+h4{
+    color: midnightblue;
+    font-size: 22px;
+    margin: 10px 0px 0px 100px;
+}
+
+.cast{
+    color: silver;
+    margin: 0px 0px 0px 100px;
+    list-style-type: none;
+    font-style: oblique;
+    
+}
+
+.wallpaper{
+    margin: 10px;
+}
+
+img{
+    width: 100%;
+    height: 500px;
+    border-radius: 10px;
+}
+
+p{
+    font-style: oblique;
+}
+
+.tanitim{
+    width: 100%;
+    margin: 10px;
+}
+
+div p{
+    color: silver;
+    text-align: center;
+    margin: 10px;
+}
+
+.btn{
+    color: antiquewhite;
+    width: 120px;
+    height: 40px;
+    background: linear-gradient(rgb(33, 58, 203) 12%,midnightblue 88%);
+    display: block;
+    margin: auto;
+    border-style: none;
+    border-radius: 20px;
+    }
